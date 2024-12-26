@@ -20,3 +20,11 @@
     align-items: center;
 
 }
+
+#result{
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    background-color: black;
+}
